@@ -75,7 +75,7 @@ class productos {
 };
 
 do{
-    opcion = parseInt(prompt(`MenÃº de opciones:
+    opcion = parseInt(prompt(`Menú de opciones:
 
         INGRESE UNA OPCION
         1. Todos los productos
